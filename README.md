@@ -1,3 +1,4 @@
+![github-header-image (3)](https://github.com/svp12345/svp12345/assets/64649386/39ec455f-b75b-4652-950f-f4050278ecc8)
 <h1 align="center">Hi 👋, I'm Shruti Pokale</h1>
 <h3 align="center">Passionate and Curious Web Developer</h3>
 
